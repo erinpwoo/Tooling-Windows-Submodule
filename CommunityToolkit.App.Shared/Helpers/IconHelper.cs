@@ -22,6 +22,7 @@ public static class IconHelper
             case ToolkitSampleCategory.Extensions: iconElement = new FontIcon() { Glyph = "\ue95f" }; break;
             case ToolkitSampleCategory.Helpers: iconElement = new FontIcon() { Glyph = "\ue946" }; break;
             case ToolkitSampleCategory.Xaml: iconElement = new FontIcon() { Glyph = "\ue8af" }; break;
+            case ToolkitSampleCategory.Media: iconElement = new FontIcon() { Glyph = "\uE8B9" }; break;
         }
         return iconElement;
     }

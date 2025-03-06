@@ -38,9 +38,4 @@ public enum ToolkitSampleCategory : byte
     /// Various Xaml related helpers and concepts.
     /// </summary>
     Xaml,
-
-    /// <summary>
-    /// UI tools/helpers to help enhance media content
-    /// </summary>
-    Media,
 }

@@ -106,10 +106,5 @@ public enum ToolkitSampleSubcategory : byte
     /// Samples that focus on adding visual effects like animations
     /// </summary>
     Effects,
-
-    /// <summary>
-    /// Samples that include brush effects
-    /// </summary>
-    Brushes
 }
 
